@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Rr1wohDcUOCHT+32PHLSP1QNAESCulFilpI0Mhe3RfrObAubqDZ9kAsLFcUfd47XxwxnDkoL/EoBMCQM9AHeFg==",
+  "dgSpecHash": "8xFJqQKj/xewwxKd5s8FZoD7C/aqMegzGGH7RAXqPYyqKAWaHBbHC0XR2HItFnpdBYlTGvTi5DZCOtTvg/uyrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ercan\\source\\repos\\ReCapProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ercan\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\ercan\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\ercan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
